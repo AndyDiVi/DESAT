@@ -1,7 +1,9 @@
 
 # DESAT – Solar Image Desaturation
 
-![alt text](image-1.png)
+[Desat.pdf](https://github.com/user-attachments/files/34769977/Desat.pdf)
+<img width="1199" height="733" alt="image" src="https://github.com/user-attachments/assets/aedd4a86-c08b-4075-b233-52ae696593b6" />
+
 
 ## Overview
 
@@ -29,8 +31,8 @@ The DESAT algorithm is implemented using MATLAB and consists of the following ma
 ## Documentation
 
 The complete theoretical explanation, mathematical formulation, MATLAB implementation and experimental results are available in:
+[Desat.pdf](https://github.com/user-attachments/files/34769982/Desat.pdf)
 
-[Desatv15.pdf](Desatv15.pdf)
 
 ## Authors
 
