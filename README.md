@@ -1,7 +1,6 @@
 
 # DESAT – Solar Image Desaturation
 
-[Desat.pdf](https://github.com/user-attachments/files/34769977/Desat.pdf)
 <img width="1199" height="733" alt="image" src="https://github.com/user-attachments/assets/aedd4a86-c08b-4075-b233-52ae696593b6" />
 
 
